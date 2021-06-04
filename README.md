@@ -16,3 +16,7 @@ pytorch == 1.8.1
 原图
 
 ![2](https://github.com/haomingdouranggouqil/pytorch-/blob/main/test.jpg)
+
+运行效果
+
+![2](https://github.com/haomingdouranggouqil/pytorch-/blob/main/answer.png)
